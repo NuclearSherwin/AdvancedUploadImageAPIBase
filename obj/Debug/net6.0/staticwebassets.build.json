@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "H376bwIXL/6YN7rCyQqErAY5VhTJnxCRpOmGCD1dVvw=",
+  "Source": "FileUploadBase",
+  "BasePath": "_content/FileUploadBase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileUploadBase/wwwroot",
+      "Source": "FileUploadBase",
+      "ContentRoot": "/home/phong/work-space/projects/c#-projects/FileUploadBase/FileUploadBase/wwwroot/",
+      "BasePath": "_content/FileUploadBase",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/phong/work-space/projects/c#-projects/FileUploadBase/FileUploadBase/wwwroot/uploads/images/muzan.png",
+      "SourceId": "FileUploadBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/phong/work-space/projects/c#-projects/FileUploadBase/FileUploadBase/wwwroot/",
+      "BasePath": "_content/FileUploadBase",
+      "RelativePath": "uploads/images/muzan.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/images/muzan.png"
+    },
+    {
+      "Identity": "/home/phong/work-space/projects/c#-projects/FileUploadBase/FileUploadBase/wwwroot/uploads/images/muzan.pngb11eb20e-9766-4819-aa26-5510abdeca04",
+      "SourceId": "FileUploadBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/phong/work-space/projects/c#-projects/FileUploadBase/FileUploadBase/wwwroot/",
+      "BasePath": "_content/FileUploadBase",
+      "RelativePath": "uploads/images/muzan.pngb11eb20e-9766-4819-aa26-5510abdeca04",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/images/muzan.pngb11eb20e-9766-4819-aa26-5510abdeca04"
+    },
+    {
+      "Identity": "/home/phong/work-space/projects/c#-projects/FileUploadBase/FileUploadBase/wwwroot/uploads/images/Zugpsitze_mountain.jpg",
+      "SourceId": "FileUploadBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/phong/work-space/projects/c#-projects/FileUploadBase/FileUploadBase/wwwroot/",
+      "BasePath": "_content/FileUploadBase",
+      "RelativePath": "uploads/images/Zugpsitze_mountain.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/images/Zugpsitze_mountain.jpg"
+    },
+    {
+      "Identity": "/home/phong/work-space/projects/c#-projects/FileUploadBase/FileUploadBase/wwwroot/uploads/imagesmuzan.png5dc3f07b-7f9c-4a77-855c-0428e23654d5",
+      "SourceId": "FileUploadBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/phong/work-space/projects/c#-projects/FileUploadBase/FileUploadBase/wwwroot/",
+      "BasePath": "_content/FileUploadBase",
+      "RelativePath": "uploads/imagesmuzan.png5dc3f07b-7f9c-4a77-855c-0428e23654d5",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/imagesmuzan.png5dc3f07b-7f9c-4a77-855c-0428e23654d5"
+    }
+  ]
+}
